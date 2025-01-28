@@ -1,0 +1,4 @@
+telethon
+selenium
+colorama
+webdriver-manager
